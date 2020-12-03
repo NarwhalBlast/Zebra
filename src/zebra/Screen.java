@@ -6,6 +6,7 @@ import java.util.ArrayList;
 
 import javax.swing.JPanel;
 
+@SuppressWarnings("serial")
 public class Screen extends JPanel {
 	
 	public ArrayList<GameObject> objects;
